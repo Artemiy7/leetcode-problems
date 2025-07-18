@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af8ec0a7-fd1a-4360-aacd-b44d027056fc" name="Changes" comment="Added leetcode LongestSubstringWithKRepeatingCharacters 395">
+    <list default="true" id="af8ec0a7-fd1a-4360-aacd-b44d027056fc" name="Changes" comment="Added leetcode Arithmetic Slices 413">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1752744517867</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added leetcode Arithmetic Slices 413">
+      <created>1752826956427</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1752826956427</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +150,7 @@
     <MESSAGE value="Added leetcode 475 Heaters" />
     <MESSAGE value="Added leetcode MinimumSizeSubarraySum 209" />
     <MESSAGE value="Added leetcode LongestSubstringWithKRepeatingCharacters 395" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added leetcode LongestSubstringWithKRepeatingCharacters 395" />
+    <MESSAGE value="Added leetcode Arithmetic Slices 413" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added leetcode Arithmetic Slices 413" />
   </component>
 </project>
