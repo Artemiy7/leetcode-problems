@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af8ec0a7-fd1a-4360-aacd-b44d027056fc" name="Changes" comment="Added leetcode problem Longest Repeating Character Replacement 424">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="af8ec0a7-fd1a-4360-aacd-b44d027056fc" name="Changes" comment="Added leetcode Permutation I nString 567" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1752919740503</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added leetcode Permutation I nString 567">
+      <created>1752946485624</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1752946485624</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,6 +179,7 @@
     <MESSAGE value="Added leetcode Arithmetic Slices 413" />
     <MESSAGE value="Added leetcode Maximum Average Subarray I 643" />
     <MESSAGE value="Added leetcode problem Longest Repeating Character Replacement 424" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added leetcode problem Longest Repeating Character Replacement 424" />
+    <MESSAGE value="Added leetcode Permutation I nString 567" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added leetcode Permutation I nString 567" />
   </component>
 </project>
