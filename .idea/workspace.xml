@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af8ec0a7-fd1a-4360-aacd-b44d027056fc" name="Changes" comment="Added leetcode Longest Find All Anagrams In A String 438">
+    <list default="true" id="af8ec0a7-fd1a-4360-aacd-b44d027056fc" name="Changes" comment="Added leetcode Subarray Product Less Than K 713">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -171,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1753017900924</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Added leetcode Subarray Product Less Than K 713">
+      <created>1753117616452</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1753117616452</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,6 +205,7 @@
     <MESSAGE value="Added leetcode Permutation I nString 567" />
     <MESSAGE value="Added Longest Harmonious Subsequence 594" />
     <MESSAGE value="Added leetcode Longest Find All Anagrams In A String 438" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added leetcode Longest Find All Anagrams In A String 438" />
+    <MESSAGE value="Added leetcode Subarray Product Less Than K 713" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added leetcode Subarray Product Less Than K 713" />
   </component>
 </project>
