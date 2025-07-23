@@ -1,4 +1,4 @@
-package easy;
+package java.easy;
 
 public class SubstringsOfSizeThreeWithDistinctCharacters1876 {
 

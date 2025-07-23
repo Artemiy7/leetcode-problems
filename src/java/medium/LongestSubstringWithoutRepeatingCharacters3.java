@@ -1,4 +1,4 @@
-package medium;
+package java.medium;
 
 public class LongestSubstringWithoutRepeatingCharacters3 {
     public int lengthOfLongestSubstring(String s) {

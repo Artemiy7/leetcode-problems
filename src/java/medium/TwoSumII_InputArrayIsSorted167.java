@@ -1,4 +1,4 @@
-package medium;
+package java.medium;
 
 public class TwoSumII_InputArrayIsSorted167 {
     public int[] twoSum(int[] numbers, int target) {

@@ -1,4 +1,4 @@
-package medium;
+package java.medium;
 
 import util.ListNode;
 

@@ -1,4 +1,4 @@
-package medium;
+package java.medium;
 
 public class SubarrayProductLessThanK713 {
 
