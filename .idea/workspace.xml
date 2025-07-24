@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af8ec0a7-fd1a-4360-aacd-b44d027056fc" name="Changes" comment="Added leetcode Substrings Of Size Three With Distinct Characters 1876">
+    <list default="true" id="af8ec0a7-fd1a-4360-aacd-b44d027056fc" name="Changes" comment="Added Trapping Rain Water 42">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +35,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -45,21 +46,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\leetcode-problems\src\java\easy" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="leetcode-problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="leetcode-problems" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -185,7 +171,28 @@
       <option name="project" value="LOCAL" />
       <updated>1753190230643</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Added leetcode solution for Find K Closest Elements 658">
+      <created>1753292282444</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1753292282444</updated>
+    </task>
+    <task id="LOCAL-00018" summary="fixed packages">
+      <created>1753292883376</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1753292883376</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Added Trapping Rain Water 42">
+      <created>1753293020076</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1753293020076</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,6 +221,9 @@
     <MESSAGE value="Added leetcode Longest Find All Anagrams In A String 438" />
     <MESSAGE value="Added leetcode Subarray Product Less Than K 713" />
     <MESSAGE value="Added leetcode Substrings Of Size Three With Distinct Characters 1876" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added leetcode Substrings Of Size Three With Distinct Characters 1876" />
+    <MESSAGE value="Added leetcode solution for Find K Closest Elements 658" />
+    <MESSAGE value="fixed packages" />
+    <MESSAGE value="Added Trapping Rain Water 42" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Trapping Rain Water 42" />
   </component>
 </project>
