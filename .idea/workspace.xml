@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af8ec0a7-fd1a-4360-aacd-b44d027056fc" name="Changes" comment="Added Trapping Rain Water 42">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="af8ec0a7-fd1a-4360-aacd-b44d027056fc" name="Changes" comment="Added Longest Turbulent Subarray 978" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1753293020076</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Added Longest Turbulent Subarray 978">
+      <created>1753381597564</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1753381597564</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +229,7 @@
     <MESSAGE value="Added leetcode solution for Find K Closest Elements 658" />
     <MESSAGE value="fixed packages" />
     <MESSAGE value="Added Trapping Rain Water 42" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Trapping Rain Water 42" />
+    <MESSAGE value="Added Longest Turbulent Subarray 978" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Longest Turbulent Subarray 978" />
   </component>
 </project>
